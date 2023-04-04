@@ -8,7 +8,30 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <h3>Hello</h3>  
+  <header class="header">
+    <h1>BOB's BURGERS CHARACTERS</h1>
+    <h3>For the love of Animations</h3>
+  </header>
+
+  <!--character details go here-->
+  <div class="container">
+    <h1 class="head">Bob's Burgers character</h1>
+    <img  id="image" src="" alt="Character Image">
+    <div id="details">
+      <h4 id="name" class="head">Name:</h4>
+      <h4 id="gender" class="hed">Gender:</h4>
+      <h4 id="occupation" class="hed" >Occupation:</h4>
+      <h4 id="voice" class="hed">VoicedBy:</h4>
+    </div> 
+  </div>
+  <br>
+  <div id="input">
+    <form id="form">
+      <label for="identity">Id:</label>
+      <input type="text" name="identity" id="identity" placeholder="Input Id" class="put">
+      <input type="submit" value="Submit Id" class="put">
+    </form>
+  </div>
   <script src="script.js"></script>
 </body>
 </html>
