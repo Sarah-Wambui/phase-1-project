@@ -20,6 +20,7 @@ body {
     border: 2px solid;
     background-color: coral;
     padding: 5px;
+    font: 25px Verdana;
 }
 #image{
     display: block;
@@ -49,4 +50,10 @@ body {
 }
 .put{
     height:30px;
+}
+h3{
+    font: italic 30px Georgia;
+}
+.h1{
+    font-size: 50px
 }
