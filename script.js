@@ -57,22 +57,13 @@ function submitId(){
 
         })
     })
-    const div = document.querySelector(".container")
-    //console.log(div)
-    div.addEventListener('mouseover', (e)=>{
-        e.target.style.color = "white"
-        setTimeout(() =>{
-            e.target.style.color = ""
-        }, 2000)
-    })
+    //add a mouseover event on the div
 }
-// function mouseOver(){
-//     const div = document.querySelector('.container')
-//     console.log(div)
-//     div.addEventListener('mouseenter', ()=>{
-//         div.style.background = "blue"
-//     })
-// }
 
-
+function mouseOver(){
+    document.querySelector('.container').style.backgroundColor = "forestgreen"
+}
+function mouseOut(){
+    document.querySelector('.container').style.backgroundColor = "burlywood"
+}
 
