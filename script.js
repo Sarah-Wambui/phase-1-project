@@ -50,12 +50,29 @@ function submitId(){
             charOccupation.textContent = `Occupation: ${character.occupation}`;
             charVoice.textContent = `VoicedBy: ${character.voicedBy}`
 
+            form.reset()
 
             
-            
+
+
         })
     })
+    const div = document.querySelector(".container")
+    //console.log(div)
+    div.addEventListener('mouseover', (e)=>{
+        e.target.style.color = "white"
+        setTimeout(() =>{
+            e.target.style.color = ""
+        }, 2000)
+    })
 }
+// function mouseOver(){
+//     const div = document.querySelector('.container')
+//     console.log(div)
+//     div.addEventListener('mouseenter', ()=>{
+//         div.style.background = "blue"
+//     })
+// }
 
 
 
