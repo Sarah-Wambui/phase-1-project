@@ -17,7 +17,7 @@ This project is created with:
 ## Setup
 To get the code for this website app, 
 
-    click on this link:
+    click on this link: https://github.com/sarahwambui96/phase-1-project/tree/gh-pages
 <ul>
 <li>Fork and clone the code to your local machine</li>
 <li>Navigate to this folder by running this command</li>
