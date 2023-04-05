@@ -23,12 +23,10 @@ To get the code for this website app,
 <li>Navigate to this folder by running this command</li>
 </ul>
 
-## LIcense
-
-
 ## Author
 Sarah Wambui
 
-## Copyright
+## Copyright and License
+
 
 
