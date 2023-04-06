@@ -25,17 +25,22 @@ To get the code for this website app,
 
     cd phase-1-project
 
- <li>Open the code using this command</li>  
-
-     code .
-
-<li>At the bottom of Visual Studio Code, click on the Go Live extension to display the application in the browser</li>      
+ <li>Launch index.html</li> 
+<li>Expect to display a website app that is functional</li>
 </ul>
+
+## Link to Live Site
+
+      https://sarahwambui96.github.io/phase-1-project/
 
 ## Author
 Sarah Wambui
 
 ## Copyright and License
+MIT License
+
+Copyright (c) 2023 sarah wambui
+
 
 
 
