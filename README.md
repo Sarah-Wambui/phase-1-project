@@ -8,10 +8,15 @@ This is a website app that displays the characters of an American adult animatio
 ## Technologies
 This project is created with:
 <ul>
-<li>JavaScript</li>
+<li>JavaScript(JSON)</li>
 <li>HTML</li>
 <li>CSS</li>
 </ul>
+
+## API Used
+This is the API used for this project
+     
+     https://bobsburgers-api.herokuapp.com/characters
    
 
 ## Setup
